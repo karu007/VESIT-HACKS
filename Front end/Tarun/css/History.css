@@ -1,0 +1,48 @@
+nav  {
+    
+	margin:10px 200px 0px 100px;
+    border-color:purple;
+	margin-type:solid;
+	border-left: 2px solid purple;
+
+}
+#nav-tabContent
+{
+	margin:0px 200px 20px 100px;
+	border-right: 2px solid purple;
+	border-bottom: 2px solid purple;
+	border-left: 2px solid purple;
+	
+}
+
+#a{
+	color:blue;
+text-align: left;
+font-size:35px;
+font-family: 'Modern Antiqua', cursive;
+margin-left:5px;
+}
+section
+{
+	border :1px solid #ef58b3;
+	padding:10px;
+	margin:20px 300px 20px 10px;
+
+}
+.b{
+	text-align: center-top;
+	font-size:30px;
+	color:Red;
+}
+#c{
+	text-align: center-top;
+	font-size:25px;
+	color:black;
+}
+#d
+{
+	text-align: center-right;
+	font-size:25px;
+	color:Blue;
+}
+	
